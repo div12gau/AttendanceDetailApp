@@ -8,6 +8,8 @@ Student: username:cs2016021101
          password:divyanshuraj
 Teacher: username:aks
          password:divyanshuraj
+The User can see this project online by visiting this link:
+http://div12gau.pythonanywhere.com/
  
 Installation:
 
